@@ -17,6 +17,7 @@ A deep learning project that classifies images as either AI-generated (fake) or 
 - [Usage](#-usage)
 - [Results](#-results)
 - [Dependencies](#-dependencies)
+- [Contributors](#-contributors)
 
 ## 🎯 Project Overview
 
@@ -237,6 +238,15 @@ The model achieves:
 - Add more sophisticated regularization methods
 - Create a web interface for easy image testing
 - Expand to handle different image sizes and formats
+
+## 👥 Contributors
+
+This project was developed by:
+
+- **Ahmed Chelly**: [https://github.com/ChellyAhmed](https://github.com/ChellyAhmed)
+- **Amine Braham**: [https://github.com/Spid3rrr](https://github.com/Spid3rrr)
+- **Eman Sarah Afi**: [https://github.com/emansarahafi](https://github.com/emansarahafi)
+- **Sahar Sarraj**: [https://github.com/Sarraj-Sahar](https://github.com/Sarraj-Sahar)
 
 ## 🙏 Acknowledgments
 
