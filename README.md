@@ -243,10 +243,10 @@ The model achieves:
 
 This project was developed by:
 
-- **Ahmed Chelly**: [https://github.com/ChellyAhmed](https://github.com/ChellyAhmed)
-- **Amine Braham**: [https://github.com/Spid3rrr](https://github.com/Spid3rrr)
-- **Eman Sarah Afi**: [https://github.com/emansarahafi](https://github.com/emansarahafi)
-- **Sahar Sarraj**: [https://github.com/Sarraj-Sahar](https://github.com/Sarraj-Sahar)
+- **[Ahmed Chelly](https://github.com/ChellyAhmed)**
+- **[Amine Braham](https://github.com/Spid3rrr)**
+- **[Eman Sarah Afi](https://github.com/emansarahafi)**
+- **[Sahar Sarraj](https://github.com/Sarraj-Sahar)**
 
 ## 🙏 Acknowledgments
 
