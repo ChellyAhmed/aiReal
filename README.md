@@ -4,7 +4,7 @@ A deep learning project that classifies images as either AI-generated (fake) or 
 
 ## 🔗 Links
 
-- **Original Kaggle Project**: [CIFAKE Real and AI Generated Images](https://www.kaggle.com/code/chellyahmed/aireal)
+- **Original Kaggle Project**: [CIFAKE Real and AI Generated Images](https://www.kaggle.com/code/emanafi/aireal)
 - **Dataset**: [CIFAKE Dataset on Kaggle](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
 
 ## 📋 Table of Contents
