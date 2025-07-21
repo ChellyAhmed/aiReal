@@ -110,7 +110,7 @@ The CNN model consists of:
 ### Running on Kaggle (Recommended)
 
 1. **Open the Kaggle notebook**
-   - Visit the [original Kaggle project](https://www.kaggle.com/code/chellyahmed/aireal)
+   - Visit the [original Kaggle project](https://www.kaggle.com/code/emanafi/aireal)
    - Fork the notebook to your account
    - The CIFAKE dataset is already available in the Kaggle environment
 
@@ -184,11 +184,11 @@ print(f"Prediction: {result} (Confidence: {prediction[0][0]:.4f})")
 
 The model achieves:
 
-- **Training Accuracy**: [To be filled based on your results]
-- **Validation Accuracy**: [To be filled based on your results]
-- **Precision**: [To be filled based on your results]
-- **Recall**: [To be filled based on your results]
-- **F1-Score**: [To be filled based on your results]
+- **Training Accuracy**: 93%
+- **Validation Accuracy**: 92.03%
+- **Precision**: 93%
+- **Recall**: 96%
+- **F1-Score**: 0.94
 
 ### Key Insights
 
